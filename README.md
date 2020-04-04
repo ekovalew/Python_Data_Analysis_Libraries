@@ -1,2 +1,2 @@
 # Python_Data_Analysis_Libraries
-Применение библиотек языка Python, предназначенных для Data Science: Numpy, Pandas, Matplotlib, SciKit-Learn.
+Модель предсказания цен на недвижимость для курса "Библиотеки Python для Data Science: Numpy, Matplotlib, Scikit-learn".
